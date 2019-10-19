@@ -1,0 +1,10 @@
+# .gitignore
+
+
+*.doc
+*.pdf
+*.docx
+
+*.odt
+*epub
+
